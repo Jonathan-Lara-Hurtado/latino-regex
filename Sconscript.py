@@ -1,4 +1,4 @@
-print('[Mensaje] Generando libreria compartida latino-regex')
+print('[Mensaje] Generando libreria estatica latino-regex')
 
 import platform
 sistema = platform.system()
